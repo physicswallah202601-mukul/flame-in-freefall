@@ -97,7 +97,7 @@ export const KEY_SAFETY_FINDINGS: SafetyFindingItem[] = [
       leftLabel: 'Silicone (0.27–1.03 mm)',
       leftValue: '~0 cm (Self-extinguished)',
       leftWidthPct: 8,
-      rightLabel: 'Cotton-Fiberglass SIBAL (Sample 2-1)',
+      rightLabel: 'Cotton-Fiberglass SIBAL (Sample 2-5)',
       rightValue: '29 cm',
       rightWidthPct: 88,
       caption: 'Measured Cygnus cargo-bay burns across Samples 2-1 to 2-9.',
