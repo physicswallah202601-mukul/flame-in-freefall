@@ -1,0 +1,6 @@
+{
+  "name": "Flame in Freefall: Microgravity Combustion Explorer",
+  "description": "Interactive microgravity combustion simulator, NASA FLEX/BASS-II/SAFFIRE-II/SAME-2 telemetry explorer, planetary fire-safety comparator, and grounded AI specialist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
